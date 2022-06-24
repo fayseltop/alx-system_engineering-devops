@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 7--reference=olleh.txt hello
+chmod --reference=hello.txt oileh
